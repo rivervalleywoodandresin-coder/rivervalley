@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Woods;William;N.;;
+FN:William 'Nick' Woods
+NICKNAME:Nick
+ORG:River Valley Workshop & Transport
+TITLE:Founder
+TEL;TYPE=CELL,VOICE:+1-601-334-1801
+EMAIL;TYPE=INTERNET,PREF:rivervalleywoodandresin@gmail.com
+ADR;TYPE=WORK:;;;Newburgh / Evansville;IN;;United States
+URL;TYPE=PREF:https://linktr.ee/william.n.woods
+URL:https://3rivervalleyworkshop.etsy.com/
+URL:https://instagram.com/rivervalley.workshop
+URL:https://facebook.com/rivervalleyworkshop
+NOTE:Founder of River Valley Workshop (custom B2B 3D-printed & NFC goods), River Valley Transport, LLC (regional freight), and The Lineage Lounge, LLC.
+END:VCARD
